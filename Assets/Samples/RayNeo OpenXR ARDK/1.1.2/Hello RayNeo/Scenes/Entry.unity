@@ -271,7 +271,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u53CC\u76EE\u5F02\u663E\nDualeye Diffrent Display"
+  m_Text: "\u53CC\u76EE\u5F02\u663E\nDualeye Different Display"
 --- !u!222 &49878698
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -350,7 +350,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u51DD\u89C6\u5C04\u7EBF(\u8FDB\u5EA6\u6761)\nStaring rays (progress bar)"
+  m_Text: "\u51DD\u89C6\u5C04\u7EBF(\u8FDB\u5EA6\u6761)\nStaring Rays (progress bar)"
 --- !u!222 &94611337
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3353,7 +3353,7 @@ GameObject:
   - component: {fileID: 1872547070}
   - component: {fileID: 1872547069}
   m_Layer: 0
-  m_Name: DualeyeDiffrentDisplay
+  m_Name: DualeyeDifferentDisplay
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
